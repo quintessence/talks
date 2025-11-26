@@ -24,7 +24,22 @@ larger, more resilient ecosystems of maintainers are less
 suseptible to the tactics used in situations like XZUtils and
 others.
 
-## Short bio
+## Bios
+
+### Short bio
+
+Quintessence (she/her) has a background in conflict de-escalation,
+mediation, and community governance. She's focused on making safety
+the sustainable state—building processes that center humanity, prevent
+harm proactively, and create space for people to fully express themselves.
+As Executive Director of the [Nivenly Foundation](https://nivenly.org) and
+Head of the [Hachyderm Mastodon instance](https://hachyderm.io/about)
+she provides strategic direction, sets moderation philosophy, and leads
+teams building communities that prioritize quality over growth, democratic
+governance, and cultures where self-care and connection are complementary
+and protective.
+
+### Full bio
 
 Quintessence (she/her) has a background in conflict de-escalation, mediation,
 and community governance. After a circuitous path in technology, she is now
