@@ -24,7 +24,7 @@ https://www.synopsys.com/software-integrity/resources/analyst-reports/open-sourc
 ## Evidence of Stress
 
 **[2.1]** Original research. (2024). "OSS Governance Crises Since 1990."
-28+ documented crises; data available on request.
+28+ documented crises; non-identifying data summarizations available on request.
 
 **[2.2]** Codenomicon & Google Security. (2014, April 7). "Heartbleed Bug (CVE-2014-0160)."
 https://heartbleed.com
